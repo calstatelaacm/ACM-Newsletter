@@ -1,0 +1,95 @@
+.container{
+    background-color: darkblue; 
+    padding: 13px; 
+    text-align: center; 
+    margin: 0 auto; 
+    font-size: 20px;
+    color: white;
+}
+.nav{
+    color: white; 
+    text-decoration: none; 
+    font-size: 20px; 
+    width: 20%; 
+    padding: 10px;
+}
+.topphrase{
+    line-height: 1; 
+    font-weight: lighter; 
+    text-align: center; 
+    padding-top: 0.5rem;
+    font-size: 30px;
+}
+.bottomphrase{
+    line-height: 0;
+    font-weight: bold; 
+    text-align: center; 
+    text-transform: uppercase;
+    font-size: 35px;
+}
+h1{
+    font-size: 2rem; 
+    padding:13px;
+    line-height: 0; 
+}
+table{
+    table-layout: fixed; 
+    width: 100%;
+}
+.half{
+    width: 50%;
+}
+.center{
+    text-align: center;
+}
+.left{
+    text-align: left;
+}
+.connect{
+    font-size: 20px; 
+    color: white; 
+    margin-bottom: 13px; 
+    background-color: #2090d1; 
+    text-align: center;
+    padding: 13px;
+    font-size: 20px;
+}
+.button{
+    text-decoration-line:none;
+    background-color:black;
+    color: white;
+    font-size: 1.3rem;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+}
+.red{
+    color: red;  
+    font-size: 24px;
+    font-weight: bold;
+}
+.green{
+    color: #30f709; 
+    font-weight: bold;
+}
+.unbold{
+    font-weight: 1;
+}
+.hundred{
+width: 100%;
+}
+.thirty{
+    width: 30%;
+}
+.foot{
+    color: #999999; background-color: #222; font-size: 20px; 
+    text-align: center; 
+    padding: 13px; 
+    border-top: 1px solid #cccccc;
+    padding-bottom: 1rem;
+    text-align: center;
+}
+.logo{
+    margin: 0.5rem;
+    text-decoration: none;
+}
