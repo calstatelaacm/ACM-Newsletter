@@ -85,3 +85,19 @@ table{
     table-layout: fixed; 
     width: 100%;
 }
+
+
+.col-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.col {
+    padding: 20px;
+}
+
+@media screen and (max-width:641px) {
+    .col-container {
+        grid-template-columns: 1fr;
+    }
+}
